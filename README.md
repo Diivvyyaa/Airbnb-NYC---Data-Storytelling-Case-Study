@@ -14,6 +14,7 @@ How to get unpopular properties more traction? and so on...
 
 To prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyse a dataset consisting of various Airbnb listings in New York. 
 Based on this analysis, you need to give two presentations to the following groups.
+
 Presentation - I
 
 Data Analysis Managers: These people manage the data analysts directly for processes and their technical expertise is basic.
